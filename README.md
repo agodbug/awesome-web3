@@ -379,10 +379,10 @@
 
 ## Book
 
-- [Ethereum development with Go](https://goethereumbook.org/en)
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-- [Token Economy Book](https://github.com/sherminvo/TokenEconomyBook/wiki)
-- [The Book of Swarm](https://www.ethswarm.org/The-Book-of-Swarm.pdf)
+- [Ethereum development with Go](https://goethereumbook.org/en) - General help guide book for [Go](https://go.dev/) programming language.
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A guide to the operation and use of the Ethereum, Ethereum Classic, RootStock (RSK) and other compatible EVM-based open blockchains.
+- [Token Economy Book](https://github.com/sherminvo/TokenEconomyBook/wiki) - Explain "How the Web3 reinvents the Internet".
+- [The Book of Swarm](https://www.ethswarm.org/The-Book-of-Swarm.pdf) - Offer in-depth technical insights and high-level specifications for those seeking to understand or contribute to the Swarm project.
 
 ## Podcast
 
